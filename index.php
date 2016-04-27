@@ -10,5 +10,6 @@
       if ($_GET['page']=='header')require'header.php';
       require'header.php';
   ?>
+  <a href="">WTF?</a>
 </body>
 </html>
